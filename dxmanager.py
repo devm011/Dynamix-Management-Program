@@ -1,7 +1,7 @@
 
 print(" =================================================")
 print(" =                                               =")
-print(" =        DYNAMIX MANAGEMENT PROGRAM            =")
+print(" =        DYNAMIX MANAGEMENT PROGRAM             =")
 print(" =                                               =")
 print("==================================================")
 
